@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-15T11:39:47.942Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.68" etag="RLXDgiDF0Q-hr5J7FGq1" version="14.3.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-02-15T12:48:41.026Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.68" etag="AEI1m4GEO65blsZ-Jdc5" version="14.3.0" type="github" pages="2">
   <diagram id="zX53jhzGlntLu0ebOdsD" name="Realizacja">
     <mxGraphModel dx="3076" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -263,7 +263,7 @@
         <mxCell id="ir_7z2xBu4d512rE0XLI-3" value="Zapytanie klienta&lt;br&gt;do DH*" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="ir_7z2xBu4d512rE0XLI-1" vertex="1">
           <mxGeometry x="345" y="173" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ir_7z2xBu4d512rE0XLI-4" value="Dyrektor DRA zleca przygotowanie Specyfikacji Technicznej do SW jednemu z pracowników działu" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="ir_7z2xBu4d512rE0XLI-1" vertex="1">
+        <mxCell id="ir_7z2xBu4d512rE0XLI-4" value="Dyrektor DRA zleca przygotowanie Specyfikacji Technicznej do SW jednemu &lt;br&gt;z pracowników działu" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="ir_7z2xBu4d512rE0XLI-1" vertex="1">
           <mxGeometry x="320" y="383" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ir_7z2xBu4d512rE0XLI-5" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="ir_7z2xBu4d512rE0XLI-1" source="ir_7z2xBu4d512rE0XLI-7" target="ir_7z2xBu4d512rE0XLI-8" edge="1">
@@ -282,10 +282,10 @@
         <mxCell id="ir_7z2xBu4d512rE0XLI-8" value="Przygotowanie specyfikacji technicznej" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="ir_7z2xBu4d512rE0XLI-1" vertex="1">
           <mxGeometry x="80" y="543" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ir_7z2xBu4d512rE0XLI-9" value="&lt;span&gt;Przygotowanie pytań do SIWZ i przesłanie ich do osoby odpowiedzialnej w DH* celem przekazania ich Zamawiającemu&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="ir_7z2xBu4d512rE0XLI-1" vertex="1">
-          <mxGeometry x="580" y="543" width="180" height="80" as="geometry" />
+        <mxCell id="ir_7z2xBu4d512rE0XLI-9" value="&lt;span&gt;Przygotowanie pytań do SIWZ &lt;br&gt;i przesłanie ich do osoby odpowiedzialnej w DH* celem przekazania ich Zamawiającemu, np. typ szafy zasilającej kombajn&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="ir_7z2xBu4d512rE0XLI-1" vertex="1">
+          <mxGeometry x="580" y="543" width="180" height="87" as="geometry" />
         </mxCell>
-        <mxCell id="ir_7z2xBu4d512rE0XLI-10" value="DH* przygotowuje SW i razem wymaganiami technicznymi przesyła do DRA" style="rounded=1;whiteSpace=wrap;html=1;" parent="ir_7z2xBu4d512rE0XLI-1" vertex="1">
+        <mxCell id="ir_7z2xBu4d512rE0XLI-10" value="DH* przygotowuje SW &lt;br&gt;i razem wymaganiami technicznymi przesyła do DRA" style="rounded=1;whiteSpace=wrap;html=1;" parent="ir_7z2xBu4d512rE0XLI-1" vertex="1">
           <mxGeometry x="335" y="263" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ir_7z2xBu4d512rE0XLI-11" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="ir_7z2xBu4d512rE0XLI-1" source="ir_7z2xBu4d512rE0XLI-4" target="ir_7z2xBu4d512rE0XLI-7" edge="1">
@@ -323,7 +323,7 @@
             <mxPoint x="350" y="583" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jX7sfCgeuOft8DtipzUX-0" value="&lt;span&gt;Osoba odpowiedzialna za przygotowanie oferty przesyła pytania do Zamawiającego. W momencie uzyskania odpowiedzi przesyła je do DRA&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="ir_7z2xBu4d512rE0XLI-1">
+        <mxCell id="jX7sfCgeuOft8DtipzUX-0" value="&lt;span&gt;Osoba odpowiedzialna za przygotowanie oferty przesyła pytania do Zamawiającego. &lt;br&gt;W&amp;nbsp; momencie uzyskania odpowiedzi przesyła je do DRA&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="ir_7z2xBu4d512rE0XLI-1">
           <mxGeometry x="580" y="678" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jX7sfCgeuOft8DtipzUX-1" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="ir_7z2xBu4d512rE0XLI-1" source="ir_7z2xBu4d512rE0XLI-9" target="jX7sfCgeuOft8DtipzUX-0">
